@@ -1,0 +1,111 @@
+.top{
+    text-align: right;
+    position: relative; top: 8px; 
+    right: 40px;
+    font-size: x-large;
+}
+
+header{
+    background-color: #e5e5e5;
+    color: #14213d;
+    padding-top: 6px;
+    padding-bottom: 20px;
+    text-align: center;
+    font-family: Arial;
+    font-weight: bold;
+    font-size: medium;
+    position: relative; bottom: 10px
+    
+}
+
+.logo{
+    float: left;
+    position: relative; left: 20px;
+}
+
+body{background-color: #e5e5e5;}
+
+footer{
+    font-size: small;
+    text-align: center;
+    background-color: #14213d;
+    color: #feffff;
+    padding-top: 1px;
+    padding-left: 30px;
+    position: relative; top: 15px;
+}
+
+.mapa{
+
+    font-size: large;
+    text-align: center;
+    font-family: Arial;
+    color: #14213d;
+    position: relative; bottom: 30px;
+}
+
+
+
+.tabela{
+    text-align: center;
+    font-size: xx-large;
+    color: #17252A;
+}
+
+.info{
+    text-align: center;
+    font-size: medium;
+}
+
+
+/*  ***LINKI***   */
+
+a{
+    color: #14213d;
+    text-decoration: none;
+}
+
+a:hover{
+    color: black;
+    text-decoration: none;
+}
+
+a:active{
+    color: #FCA311;
+    text-decoration: none;
+}
+
+
+/* poniżej to ctrlc ctrlv z PSP*/
+
+
+
+
+.naglowek{
+    
+    font-family: Arial;
+    font-size: xxx-large;
+    color: #17252A;
+}
+
+.naglowek_bialy{
+    position: relative; top: 20px;
+    font-family: Arial;
+    font-size: xxx-large;
+    color: #feffff;
+
+}
+
+
+
+
+.opis_bialy{
+    background-color: #2B7A78;
+    color: #feffff;
+    padding-bottom: 5px;
+    position: relative; top: 15px;
+    text-align: center;
+    font-size: larger;
+}
+
+
