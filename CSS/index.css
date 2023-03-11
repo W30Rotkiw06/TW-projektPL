@@ -23,6 +23,11 @@ header{
     position: relative; left: 20px;
 }
 
+.icon{
+    position: relative; top: 3px;
+}
+
+
 body{background-color: #e5e5e5;}
 
 footer{
@@ -33,6 +38,13 @@ footer{
     padding-top: 1px;
     padding-left: 30px;
     position: relative; top: 15px;
+}
+
+.naglowek{
+    
+    font-family: Arial;
+    font-size: 50px;
+    color: #17252A;
 }
 
 .mapa{
@@ -75,38 +87,4 @@ a:active{
     color: #FCA311;
     text-decoration: none;
 }
-
-
-/* poniżej to ctrlc ctrlv z PSP*/
-
-
-
-
-.naglowek{
-    
-    font-family: Arial;
-    font-size: xxx-large;
-    color: #17252A;
-}
-
-.naglowek_bialy{
-    position: relative; top: 20px;
-    font-family: Arial;
-    font-size: xxx-large;
-    color: #feffff;
-
-}
-
-
-
-
-.opis_bialy{
-    background-color: #2B7A78;
-    color: #feffff;
-    padding-bottom: 5px;
-    position: relative; top: 15px;
-    text-align: center;
-    font-size: larger;
-}
-
 
