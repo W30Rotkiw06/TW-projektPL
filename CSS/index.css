@@ -47,6 +47,13 @@ footer{
     color: #17252A;
 }
 
+.naglowekMain{
+    font-family: Arial;
+    font-size: 50px;
+    color: #17252A;
+    position: relative; bottom: 35px;
+}
+
 .mapa{
 
     font-size: large;
